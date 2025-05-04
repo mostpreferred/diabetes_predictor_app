@@ -30,6 +30,5 @@ This app uses a trained **Logistic Regression** (or your model type here) classi
 To run the app locally:
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/diabetes_predictor_app.git
-   cd diabetes_predictor_app
+  git clone https://github.com/mostpreferred/diabetes_predictor_app.git
+cd diabetes_predictor_app
