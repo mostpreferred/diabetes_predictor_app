@@ -32,3 +32,9 @@ To run the app locally:
 1. Clone the repo:
   git clone https://github.com/mostpreferred/diabetes_predictor_app.git
 cd diabetes_predictor_app
+
+## project screenshot
+
+![Project Screenshot](images/diabetes_predictor_app1.png)
+
+![Project Screenshot](images/diabetes_predictor_app2.png)
