@@ -35,6 +35,7 @@ cd diabetes_predictor_app
 
 ## project screenshot
 
-![Project Screenshot](images/diabetes_predictor_app1.png)
+![Project Screenshot](https://github.com/mostpreferred/diabetes_predictor_app/blob/main/images/diabetes_predictor_app2.png?raw=true)
 
-![Project Screenshot](images/diabetes_predictor_app2.png)
+
+![Project Screenshot](https://github.com/mostpreferred/diabetes_predictor_app/blob/main/images/diabetes_predictor_app2.png?raw=true)
